@@ -22,7 +22,7 @@ class Employee:
 
 
 
-emp_1 = Employee("anu","singh", 50000)
-emp_2 = Employee("Test", "1s3" 60000)
+emp_1 = Employee("anu", "singh", 50000)
+emp_2 = Employee("Test", "1s3", 60000)
 
 print(Employee.num_of_emps)
